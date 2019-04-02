@@ -6,7 +6,8 @@ import android.content.SharedPreferences;
 import android.net.Uri;
 import android.preference.PreferenceManager;
 
-import com.github.axet.audiolibrary.R;
+
+import com.ultron.axet.audiolibrary.R;
 
 import java.io.File;
 

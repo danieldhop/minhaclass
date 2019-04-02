@@ -8,7 +8,8 @@ import android.view.animation.Transformation;
 import android.widget.ListView;
 
 import com.github.axet.androidlibrary.animations.MarginAnimation;
-import com.github.axet.audiolibrary.R;
+import com.ultron.axet.audiolibrary.R;
+
 
 public class RecordingAnimation extends MarginAnimation {
     ListView list;

@@ -44,9 +44,9 @@ import com.github.axet.androidlibrary.widgets.PopupShareActionProvider;
 import com.github.axet.androidlibrary.widgets.ProximityPlayer;
 import com.github.axet.androidlibrary.widgets.ProximityShader;
 import com.github.axet.androidlibrary.widgets.ThemeUtils;
-import com.github.axet.audiolibrary.R;
 import com.github.ultron.audiolibrary.animations.RecordingAnimation;
 import com.github.ultron.audiolibrary.encoders.Factory;
+import com.ultron.axet.audiolibrary.R;
 
 import java.io.File;
 import java.io.IOException;
