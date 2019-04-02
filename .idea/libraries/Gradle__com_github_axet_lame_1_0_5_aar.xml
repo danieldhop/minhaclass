@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.axet:lame:1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lame-1.0.5.aar/18a75d3158df45a5bba22f5738541399/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lame-1.0.5.aar/18a75d3158df45a5bba22f5738541399/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.axet/lame/1.0.5/38779739750b050d9a26aaef7f3a662867d2801d/lame-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

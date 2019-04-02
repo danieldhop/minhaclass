@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.axet:libvorbis:1.3.5-5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libvorbis-1.3.5-5.aar/cf3c5efc0537f47289ff6954f7e11bcd/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libvorbis-1.3.5-5.aar/cf3c5efc0537f47289ff6954f7e11bcd/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
